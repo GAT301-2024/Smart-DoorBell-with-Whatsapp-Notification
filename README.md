@@ -1,7 +1,9 @@
 Smart Doorbell with WhatsApp Notifications
 Overview
 This project is a smart doorbell system that sends notifications to your phone via WhatsApp when someone rings the doorbell. It uses a combination of hardware and software to achieve this functionality.
+
 > Reviewed and Evaluated by AJr.Allan
+
 Features
 Real-time notifications on your phone via WhatsApp.
 Easy to set up and configure.
